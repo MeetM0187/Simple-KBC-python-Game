@@ -1,0 +1,137 @@
+QUESTIONS = [
+    {
+        "name": "Which river is known as the 'Sorrow of Bihar'?",
+        "option1": "Ganga",
+        "option2": "Kosi",
+        "option3": "Yamuna",
+        "option4": "Sutlej",
+        "answer": 2,
+        "money": 1000
+    },
+    {
+        "name": "What is the capital of Arunachal Pradesh?",
+        "option1": "Itanagar",
+        "option2": "Dispur",
+        "option3": "Gangtok",
+        "option4": "Imphal",
+        "answer": 1,
+        "money": 2000
+    },
+    {
+        "name": "Which Indian state is known as the 'Spice Garden of India'?",
+        "option1": "Kerala",
+        "option2": "Tamil Nadu",
+        "option3": "Assam",
+        "option4": "Goa",
+        "answer": 1,
+        "money": 3000
+    },
+    {
+        "name": "Who was the first President of India?",
+        "option1": "Dr. Rajendra Prasad",
+        "option2": "Jawaharlal Nehru",
+        "option3": "Mahatma Gandhi",
+        "option4": "Sardar Patel",
+        "answer": 1,
+        "money": 5000
+    },
+    {
+        "name": "Which state is the leading producer of tea in India?",
+        "option1": "West Bengal",
+        "option2": "Assam",
+        "option3": "Kerala",
+        "option4": "Tamil Nadu",
+        "answer": 2,
+        "money": 10000
+    },
+    {
+        "name": "Which is the longest dam in India?",
+        "option1": "Bhakra Nangal Dam",
+        "option2": "Tehri Dam",
+        "option3": "Hirakud Dam",
+        "option4": "Sardar Sarovar Dam",
+        "answer": 3,
+        "money": 20000
+    },
+    {
+        "name": "Which Indian city is also known as the 'City of Lakes'?",
+        "option1": "Udaipur",
+        "option2": "Bhopal",
+        "option3": "Srinagar",
+        "option4": "Nainital",
+        "answer": 1,
+        "money": 40000
+    },
+    {
+        "name": "What is the main language spoken in Tamil Nadu?",
+        "option1": "Malayalam",
+        "option2": "Telugu",
+        "option3": "Tamil",
+        "option4": "Kannada",
+        "answer": 3,
+        "money": 80000
+    },
+    {
+        "name": "Which is the smallest state in India by area?",
+        "option1": "Goa",
+        "option2": "Sikkim",
+        "option3": "Tripura",
+        "option4": "Nagaland",
+        "answer": 1,
+        "money": 160000
+    },
+    {
+        "name": "What is the national tree of India?",
+        "option1": "Neem",
+        "option2": "Banyan",
+        "option3": "Peepal",
+        "option4": "Mango",
+        "answer": 2,
+        "money": 320000
+    },
+    {
+        "name": "Which Indian state is the largest producer of wheat?",
+        "option1": "Punjab",
+        "option2": "Uttar Pradesh",
+        "option3": "Haryana",
+        "option4": "Madhya Pradesh",
+        "answer": 2,
+        "money": 640000
+    },
+    {
+        "name": "Which is the oldest mountain range in India?",
+        "option1": "Himalayas",
+        "option2": "Aravalli",
+        "option3": "Vindhyas",
+        "option4": "Satpura",
+        "answer": 2,
+        "money": 1250000
+    },
+    {
+        "name": "Which Indian scientist won the Nobel Prize in Physics in 1930?",
+        "option1": "Homi Bhabha",
+        "option2": "CV Raman",
+        "option3": "APJ Abdul Kalam",
+        "option4": "Satyendra Nath Bose",
+        "answer": 2,
+        "money": 2500000
+    },
+    {
+        "name": "Who was the first Indian to go to space?",
+        "option1": "Kalpana Chawla",
+        "option2": "Rakesh Sharma",
+        "option3": "Sunita Williams",
+        "option4": "Vikram Sarabhai",
+        "answer": 2,
+        "money": 5000000
+    },
+    {
+        "name": "When was the Indian Constitution adopted?",
+        "option1": "January 26, 1950",
+        "option2": "August 15, 1947",
+        "option3": "November 26, 1949",
+        "option4": "January 26, 1949",
+        "answer": 3,
+        "money": 10000000
+    }
+]
